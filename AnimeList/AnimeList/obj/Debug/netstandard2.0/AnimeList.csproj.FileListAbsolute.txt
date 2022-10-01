@@ -1,0 +1,16 @@
+D:\projects\AnimeList\AnimeList\AnimeList\bin\Debug\netstandard2.0\AnimeList.deps.json
+D:\projects\AnimeList\AnimeList\AnimeList\bin\Debug\netstandard2.0\AnimeList.dll
+D:\projects\AnimeList\AnimeList\AnimeList\bin\Debug\netstandard2.0\ref\AnimeList.dll
+D:\projects\AnimeList\AnimeList\AnimeList\bin\Debug\netstandard2.0\AnimeList.pdb
+D:\projects\AnimeList\AnimeList\AnimeList\obj\Debug\netstandard2.0\AnimeList.csproj.AssemblyReference.cache
+D:\projects\AnimeList\AnimeList\AnimeList\obj\Debug\netstandard2.0\AnimeList.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\AnimeList\AnimeList\AnimeList\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\projects\AnimeList\AnimeList\AnimeList\obj\Debug\netstandard2.0\Views\AnimeListView.xaml.g.cs
+D:\projects\AnimeList\AnimeList\AnimeList\obj\Debug\netstandard2.0\Views\AnimePage.xaml.g.cs
+D:\projects\AnimeList\AnimeList\AnimeList\obj\Debug\netstandard2.0\AnimeList.AssemblyInfoInputs.cache
+D:\projects\AnimeList\AnimeList\AnimeList\obj\Debug\netstandard2.0\AnimeList.AssemblyInfo.cs
+D:\projects\AnimeList\AnimeList\AnimeList\obj\Debug\netstandard2.0\AnimeList.csproj.CoreCompileInputs.cache
+D:\projects\AnimeList\AnimeList\AnimeList\obj\Debug\netstandard2.0\XamlC.stamp
+D:\projects\AnimeList\AnimeList\AnimeList\obj\Debug\netstandard2.0\AnimeList.dll
+D:\projects\AnimeList\AnimeList\AnimeList\obj\Debug\netstandard2.0\ref\AnimeList.dll
+D:\projects\AnimeList\AnimeList\AnimeList\obj\Debug\netstandard2.0\AnimeList.pdb

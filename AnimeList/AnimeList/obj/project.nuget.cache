@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "9UXh6ihRW2Vf8HbSSOGqa0J9Z8CTYw1Lg7Pbo8XoAx43G/Uxd/6fY9hIncFRQAZyVraZ60vwNIDkGUXZ6aBhHw==",
+  "success": true,
+  "projectFilePath": "D:\\projects\\AnimeList\\AnimeList\\AnimeList\\AnimeList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stormside\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Stormside\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Stormside\\.nuget\\packages\\sharpnado.collectionview\\2.1.0\\sharpnado.collectionview.2.1.0.nupkg.sha512",
+    "C:\\Users\\Stormside\\.nuget\\packages\\sharpnado.taskmonitor\\1.0.2\\sharpnado.taskmonitor.1.0.2.nupkg.sha512",
+    "C:\\Users\\Stormside\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

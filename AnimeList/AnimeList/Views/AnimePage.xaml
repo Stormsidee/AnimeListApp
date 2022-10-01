@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AnimeList.Views.AnimePage" Title="Информация о аниме">
+    <StackLayout>
+        <StackLayout x:Name="animeStack">
+            <Label Text="Название:"/>
+            <Entry Text="{Binding Title}" FontSize="Medium"/>
+            <Label Text="Сезон:" />
+            <Entry Text="{Binding Season}" FontSize="Medium" />
+            <Label Text="Дата выхода:"/>
+            <Entry Text="{Binding RealeseDate}" FontSize="Medium"/>
+
+        </StackLayout>
+        <StackLayout>
+            <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
+                <Button Text="Сохранить" Command="{Binding ListViewModel.SaveCommand}" CommandParameter="{Binding}"  />
+                <Button Text="Назад" Command="{Binding ListViewModel.BackCommand}" CommandParameter="{Binding}" />
+                <Button Text="Удалить" Command="{Binding ListViewModel.DeleteCommand}" CommandParameter="{Binding}"  />
+            </StackLayout>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

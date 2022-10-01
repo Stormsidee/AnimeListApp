@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:sho="http://sharpnado.com"
+             x:Class="AnimeList.Views.AnimeListView" Title="Список аниме">
+    <StackLayout>
+        <sho:HorizontalListView
+            CollectionPadding="10,30,10,75"
+            ItemHeight="260"
+            ItemWidth="260"
+            ItemsSource="{Binding Anime}"
+            SnapStyle="Center"
+            TapCommand="{Binding ListTapCommand}">
+            <sho:HorizontalListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <ViewCell.View>
+                            <StackLayout>
+                                <Label Text="{Binding Title}" FontSize="Medium" TextColor="Red" />
+                                <Label Text="{Binding Season,StringFormat='Сезон: {0:F0}'}" FontSize="Small" />
+                                <Label Text="{Binding RealeseDate,StringFormat='Дата выхода: {0:F0}'}" FontSize="Small" />
+                            </StackLayout>
+                        </ViewCell.View>
+                    </ViewCell>
+                </DataTemplate>
+            </sho:HorizontalListView.ItemTemplate>
+        </sho:HorizontalListView>
+        <Image x:Name="image1"></Image>
+        <Button Text="+" Command="{Binding CreateCommand}" Margin="0,500,0,50"  BackgroundColor="DeepSkyBlue"
+                WidthRequest="75" HeightRequest="75" CornerRadius="40" VerticalOptions="Center" HorizontalOptions="Center"
+                FontSize="Large"/>
+    </StackLayout>
+</ContentPage>
