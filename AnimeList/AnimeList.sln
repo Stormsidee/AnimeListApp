@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimeList.Android", "AnimeList\AnimeList.Android\AnimeList.Android.csproj", "{DF5BF0EB-33EE-4A08-BD16-AC4AE047EE25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimeList", "AnimeList\AnimeList\AnimeList.csproj", "{F90E379E-CCB6-4ECC-98BF-E5356B376EA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF5BF0EB-33EE-4A08-BD16-AC4AE047EE25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF5BF0EB-33EE-4A08-BD16-AC4AE047EE25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF5BF0EB-33EE-4A08-BD16-AC4AE047EE25}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DF5BF0EB-33EE-4A08-BD16-AC4AE047EE25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF5BF0EB-33EE-4A08-BD16-AC4AE047EE25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF5BF0EB-33EE-4A08-BD16-AC4AE047EE25}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{F90E379E-CCB6-4ECC-98BF-E5356B376EA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F90E379E-CCB6-4ECC-98BF-E5356B376EA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F90E379E-CCB6-4ECC-98BF-E5356B376EA8}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F90E379E-CCB6-4ECC-98BF-E5356B376EA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F90E379E-CCB6-4ECC-98BF-E5356B376EA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F90E379E-CCB6-4ECC-98BF-E5356B376EA8}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {627C00DB-2F08-4C2F-B758-0F42DBF94CE9}
+	EndGlobalSection
+EndGlobal
